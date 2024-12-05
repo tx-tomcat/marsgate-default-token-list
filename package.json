@@ -1,19 +1,19 @@
 {
-  "name": "quickswap-default-token-list",
-  "version": "1.3.59",
-  "description": "◦ The Quickswap default token list",
-  "main": "build/quickswap-default.tokenlist.json",
+  "name": "marsgate-default-token-list",
+  "version": "0.0.1",
+  "description": "◦ The Marsgate default token list",
+  "main": "build/marsgate-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/quickswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/marsgate-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/quickswap-default.tokenlist.json"
+    "build/marsgate-default.tokenlist.json"
   ],
   "keywords": [
     "uniswap",
-    "quickswap",
+    "marsgate",
     "default",
     "token",
     "list"

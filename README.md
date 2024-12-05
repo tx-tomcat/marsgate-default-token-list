@@ -1,11 +1,11 @@
-# @quickswap-default-token-list
+# @marsgate-default-token-list
 
-This [NPM module](https://www.npmjs.com/package/quickswap-default-token-list) and GitHub repo contains the default token list used in the Quickswap interface.
+This [NPM module](https://www.npmjs.com/package/marsgate-default-token-list) and GitHub repo contains the default token list used in the Marsgate interface.
 
 ## Adding a token
 
 To request that we add a token to the list, 
-[file an issue](https://github.com/sameepsi/quickswap-default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+[file an issue](https://github.com/sameepsi/marsgate-default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
 
 ### Disclaimer
 

@@ -36,16 +36,16 @@
     "trending": false
   },
   {
-    "name": "QuickSwap(OLD)",
+    "name": "marsgate(OLD)",
     "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
     "symbol": "QUICK(OLD)",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg",
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/marsgate-interface/master/public/favicon.jpeg",
     "trending": false
   },
   {
-    "name": "QuickSwap(NEW)",
+    "name": "marsgate(NEW)",
     "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
     "symbol": "QUICK(NEW)",
     "decimals": 18,
@@ -59,7 +59,7 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png",
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/marsgate-interface/master/public/favicon1.png",
     "trending": false
   },
   {
@@ -143,7 +143,7 @@
     "logoURI": "https://etherscan.io/token/images/telcoin_28.png",
     "trending": false
   },
- {
+  {
     "name": "Aave",
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "symbol": "AAVE",
@@ -185,7 +185,7 @@
     "symbol": "WOO",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/wootrade_w.svg",
+    "logoURI": "https://raw.githubusercontent.com/sameepsi/marsgate-default-token-list/master/assets/wootrade_w.svg",
     "trending": false
   },
   {

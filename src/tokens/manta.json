@@ -1,138 +1,138 @@
 [
-      {
-        "name": "Dai Stablecoin",
-        "address": "0x1c466b9371f8aBA0D7c458bE10a62192Fcb8Aa71",
-        "symbol": "DAI",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-      },
-      {
-        "name": "Tether USD",
-        "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
-        "symbol": "USDT",
-        "decimals": 6,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-      },
-      {
-        "name": "USD Coin",
-        "address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
-        "symbol": "USDC",
-        "decimals": 6,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-      },
-      {
-        "name": "Wrapped BTC",
-        "address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
-      },
-      {
-        "name": "Wrapped Ether",
-        "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
-        "symbol": "WETH",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-      },
-      {
-        "name": "Matic",
-        "address": "0x0f52A51287f9b3894d73Df05164D0Ee2533ccBB4",
-        "symbol": "MATIC",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://i.imgur.com/uIExoAr.png"
-      },
-      {
-        "name": "Wrapped liquid staked Ether 2.0",
-        "address": "0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5",
-        "symbol": "wstETH",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
-      },
-      {
-        "name": "StakeStone Ether",
-        "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
-        "symbol": "STONE",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
-      },
-      {
-        "name": "QuickSwap",
-        "address": "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
-        "symbol": "QUICK",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://quickswap.exchange/static/media/0xb5c064f955d8e7f38fe0460c556a72987494ee17.536e9161.png"
-      },
-      {
-        "name": "Liquid Staking Matic",
-        "address": "0x01D27580C464d5B3B26F78Bee12E684901dbC02a",
-        "symbol": "MaticX",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://i.ibb.co/9bHbFsB/2022-04-26-11-53-13.jpg"
-      },
-      {
-        "name": "GAI",
-        "address": "0xcd91716ef98798A85E79048B78287B13ae6b99b2",
-        "symbol": "GAI",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/Goku-Money/Media-kit/main/token_GAI.png"
-      },
-      {
-        "name": "Asmatch",
-        "address": "0xCd5d6dE3fdBce1895F0Dac13A065673599ED6806",
-        "symbol": "ASM",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://i.imgur.com/grd3qpW.png"
-      },
-      {
-        "name": "Wrapped Mountain Protocol",
-        "address": "0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
-        "symbol": "wUSDM",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://assets.coingecko.com/coins/images/33785/standard/wUSDM_PNG_240px.png?1702981552"
-      },
-      {
-        "name": "Manta",
-        "address": "0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
-        "symbol": "MANTA",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://i.imgur.com/QMlGUKa.png"
-      },
-      {
-        "name": "mUSD",
-        "address": "0x649d4524897cE85A864DC2a2D5A11Adb3044f44a",
-        "symbol": "mUSD",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_usd.png"
-      },
-      {
-        "name": "mETH",
-        "address": "0xACCBC418a994a27a75644d8d591afC22FaBA594e",
-        "symbol": "mETH",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_eth.png"
-      },
-      {
-        "name": "mBTC",
-        "address": "0x1468177DbCb2a772F3d182d2F1358d442B553089",
-        "symbol": "mBTC",
-        "decimals": 18,
-        "chainId": 169,
-        "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_btc.png"
-      }
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x1c466b9371f8aBA0D7c458bE10a62192Fcb8Aa71",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Matic",
+    "address": "0x0f52A51287f9b3894d73Df05164D0Ee2533ccBB4",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://i.imgur.com/uIExoAr.png"
+  },
+  {
+    "name": "Wrapped liquid staked Ether 2.0",
+    "address": "0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443"
+  },
+  {
+    "name": "StakeStone Ether",
+    "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
+    "symbol": "STONE",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://storage.googleapis.com/ks-setting-1d682dca/dee351e5-ff61-4a8f-994d-82f3078119661696785945490.png"
+  },
+  {
+    "name": "marsgate",
+    "address": "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://marsgate.exchange/static/media/0xb5c064f955d8e7f38fe0460c556a72987494ee17.536e9161.png"
+  },
+  {
+    "name": "Liquid Staking Matic",
+    "address": "0x01D27580C464d5B3B26F78Bee12E684901dbC02a",
+    "symbol": "MaticX",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://i.ibb.co/9bHbFsB/2022-04-26-11-53-13.jpg"
+  },
+  {
+    "name": "GAI",
+    "address": "0xcd91716ef98798A85E79048B78287B13ae6b99b2",
+    "symbol": "GAI",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/Goku-Money/Media-kit/main/token_GAI.png"
+  },
+  {
+    "name": "Asmatch",
+    "address": "0xCd5d6dE3fdBce1895F0Dac13A065673599ED6806",
+    "symbol": "ASM",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://i.imgur.com/grd3qpW.png"
+  },
+  {
+    "name": "Wrapped Mountain Protocol",
+    "address": "0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
+    "symbol": "wUSDM",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://assets.coingecko.com/coins/images/33785/standard/wUSDM_PNG_240px.png?1702981552"
+  },
+  {
+    "name": "Manta",
+    "address": "0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
+    "symbol": "MANTA",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://i.imgur.com/QMlGUKa.png"
+  },
+  {
+    "name": "mUSD",
+    "address": "0x649d4524897cE85A864DC2a2D5A11Adb3044f44a",
+    "symbol": "mUSD",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_usd.png"
+  },
+  {
+    "name": "mETH",
+    "address": "0xACCBC418a994a27a75644d8d591afC22FaBA594e",
+    "symbol": "mETH",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_eth.png"
+  },
+  {
+    "name": "mBTC",
+    "address": "0x1468177DbCb2a772F3d182d2F1358d442B553089",
+    "symbol": "mBTC",
+    "decimals": 18,
+    "chainId": 169,
+    "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_m_btc.png"
+  }
 ]
