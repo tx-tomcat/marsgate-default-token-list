@@ -1,6 +1,6 @@
 {
   "name": "marsgate-default-token-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "◦ The Marsgate default token list",
   "main": "build/marsgate-default.tokenlist.json",
   "scripts": {
