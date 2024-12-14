@@ -1,5 +1,5 @@
 const { version } = require("../package.json");
-const devnet = require("./tokens/devnet.json");
+const xrplevmdevnet = require("./tokens/xrplevmdevnet.json");
 const rootnetworktest = require("./tokens/rootnetworktest.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -14,7 +14,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
     keywords: ["marsgate", "default"],
-    tokens: [...devnet, ...rootnetworktest]
+    tokens: [...xrplevmdevnet, ...rootnetworktest]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.trending === undefined) {
