@@ -1,0 +1,11 @@
+[
+  {
+    "name": "ROOT",
+    "address": "0xcCcCCccC00000001000000000000000000000000",
+    "symbol": "ROOT",
+    "decimals": 6,
+    "chainId": 7672,
+    "logoURI": "https://explorer.rootnet.cloud/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Froot.84e7bc5c.png&w=48&q=75",
+    "trending": true
+  }
+]
